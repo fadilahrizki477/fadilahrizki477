@@ -37,7 +37,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=fadilahrizki477&theme=neon&hide_border=false)<br/>
 <img align="right" height="149" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fadilahrizki477&theme=radical&no-frame=false&no-bg=true&margin-w=4)
