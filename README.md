@@ -23,9 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-<img align="right" height="149" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 
 ###
 
@@ -38,6 +35,9 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fadilahrizki477&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=fadilahrizki477&theme=neon&hide_border=false)<br/>
+<img align="right" height="149" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fadilahrizki477&theme=radical&no-frame=false&no-bg=true&margin-w=4)
