@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 A quiet coder with a passion for clean code, smooth performance, and precision — both in programming and on the road.  <br>🏍️ When I'm not in front of a screen, you'll probably find me riding, clearing my head, and thinking about the next project idea.</p>
+<p align="left">💻 A quiet coder with a passion for clean code, smooth performance, and precision - both in programming and on the road.  <br>🏍️ When I'm not in front of a screen, you'll probably find me riding, clearing my head, and thinking about the next project idea.</p>
 
 ###
 
